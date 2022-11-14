@@ -1,4 +1,4 @@
-# face-and-eye-and-smile-detectin
+# face-and-eye-and-smile-detection
 
 this project uses Hear-like featurees to detect faces,eyes, and smiles
 
